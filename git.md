@@ -13,6 +13,7 @@
 
   <dt>add all to staging area</dt>
   <dd>git add -A</dd>
+  <dd>git add --all</dd>
 
   <dt>removing files from staging area</dt>
   <dd>git reset</dd>
@@ -21,7 +22,7 @@
   <dd>git status</dd>
 
   <dt>commite to local branch</dt>
-  <dd>git commite -m "message for commite"</dd>
+  <dd>git commit -m "message for commite"</dd>
 
   <dt>push local commite to remote repo</dt>
   <dd>git push origin master</dd>
