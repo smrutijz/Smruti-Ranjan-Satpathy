@@ -11,6 +11,12 @@
   <dt>add all to staging area</dt>
   <dd>git add -A</dd>
 
+  <dt>add all to staging area</dt>
+  <dd>git add -A</dd>
+
+  <dt>removing files from staging area</dt>
+  <dd>git reset</dd>
+
   <dt>to get status</dt>
   <dd>git status</dd>
 
