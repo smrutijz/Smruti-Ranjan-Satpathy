@@ -24,6 +24,9 @@
   <dt>commite to local branch</dt>
   <dd>git commit -m "message for commite"</dd>
 
+  <dt>incase you are creating a new repo which is not yest exist in remote. hence first create a remote repo add following line to it</dt>
+  <dd>git remote add origin [url].git</dd>
+
   <dt>push local commite to remote repo</dt>
   <dd>git push origin master</dd>
 
